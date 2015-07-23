@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.springframework.data-spring-data-redis-1.4.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/org.springframework.data-spring-data-redis-1.4.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
