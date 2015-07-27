@@ -1,0 +1,5 @@
+1.安装mybatis-generator插件；
+2.工程导入相关jar包；
+3.工程右键，Other-->Mybatis创建mybatis generator config文件generatorConfig.xml；
+4.配置数据库驱动jar路径、数据库连接、相关文件生成路径；
+5.generatorConfig.xml右键直接执行，刷新工程，即可看到自动生成的相关文件
